@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AgendaCRUD</string>
+    <string name="hintNombre">Nombre:</string>
+    <string name="hintTelefono">Telefono:</string>
+    <string name="hintEmail">Correo:</string>
+    <string name="btnGuardar">GUARDAR</string>
+    <string name="menu_nuevo">Nuevo registro</string>
+</resources>
